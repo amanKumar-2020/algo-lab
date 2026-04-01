@@ -25,6 +25,10 @@ import java.util.Scanner;
 //         scanner.close();
 //     }
 // }
+
+/**
+ * This is optimize version of find prime or not , here no of loop decrease by square root
+ */
 public class primeOrNot {
     public static void main(String []args){
         Scanner scanner = new Scanner(System.in);
